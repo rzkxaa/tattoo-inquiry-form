@@ -3,7 +3,7 @@ body {
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.4;
-    background-color: rgb(255, 155, 244);
+    background-color: #ffbcd9;
     margin: 0;
   }
   
@@ -110,7 +110,7 @@ body {
     display: block;
     width: 100%;
     padding: 0.75rem;
-    background: #ffbcd9;
+    background: rgb(255, 155, 244);
     color: black;
     border-radius: 2px;
     cursor: pointer;
